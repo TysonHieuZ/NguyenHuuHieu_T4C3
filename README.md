@@ -5,7 +5,7 @@ Tôi là sinh viên năm 3 tại trường Huflit, chuyên ngành về fullstack
 ## 🚀 Kỹ Năng
 - **Ngôn ngữ lập trình**:c#,Java
 - **Công nghệ và Công cụ**:Visual Studio,Github,SQL
-- **Kỹ năng khác**:Tôi có thể làm TeamLeader cho team và tạo ra hướng đi đúng đắn cho team.
+- **Kỹ năng khác**:Tôi có thể thích nghi nhanh chóng với công việc.
 
 ## 📚 Dự Án Nổi Bật
 1. **[Dự án Quản Lý Bất Động Sản]** - (https://github.com/qtuan0343/Elixir.git)
@@ -20,7 +20,7 @@ Tôi là sinh viên năm 3 tại trường Huflit, chuyên ngành về fullstack
 - 
 ## 🎯 Mục Tiêu
 - Tích lũy kinh nghiệm thực tế thông qua các dự án và công việc.
-- Phát triển kỹ năng về lập trình fullstack
+- Phát triển kỹ năng về lập trình FrontEnd
 - Kết nối và học hỏi từ các nhà phát triển tài năng trên GitHub và các nền tảng khác.
 
 ## 📫 Liên Hệ
