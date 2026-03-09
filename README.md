@@ -1,6 +1,6 @@
 # 👋 Xin chào, tôi là Nguyễn Hữu Hiếu!
 ## 🧑‍🎓 Giới thiệu
-Tôi là sinh viên năm 3 tại trường Huflit, chuyên ngành về fullstack. Với niềm đam mê mãnh liệt, tôi đang không ngừng học hỏi và phát triển kỹ năng của mình để đóng góp cho cộng đồng và ngành công nghệ.
+Tôi là sinh viên năm 4 tại trường Huflit, chuyên ngành về Công nghệ phần mềm. Với niềm đam mê mãnh liệt, tôi đang không ngừng học hỏi và phát triển kỹ năng của mình để đóng góp cho cộng đồng và ngành công nghệ.
 
 ## 🚀 Kỹ Năng
 - **Ngôn ngữ lập trình**:c#,Java
